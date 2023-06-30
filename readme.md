@@ -1,7 +1,7 @@
 # 警告リスト
 
-**★このドキュメントの改造、流用、配布、クローンは禁止です★**  
-**　　Modification, diversion, distribution, and cloning of this document are prohibited**  
+**★このリポジトリの改造、流用、配布、クローンは禁止です★**  
+    **Modification, diversion, distribution, and cloning of this repository are prohibited**  
   
 
 <h1 id="aHowto">このドキュメントについて / About this document</h1>  
@@ -14,22 +14,25 @@
 * [警告リスト（github）](/list_github.md)
 
 * [警告リスト（Twitter）](/list_twitter.md)
+
+* [警告リスト（Youtube）](/list_youtube.md)
   
-  
 
 
 
 
 
-<h1 id="aRules">本リポジトリの利用規約</h1>  
+<h1 id="aRules">リポジトリの利用規約 / Repository terms</h1>  
+
+本項目では、githubの各リポジトリの共通的な利用規約について定めます。  
 
 * 本規約は、リポジトリ上の文章、数値などのデータ、ソースコード、  
   ユーザアカウント情報、コメント、リンク先の情報など情報全てに適用されます。  
 
 * 本リポジトリはフリーウェア規約に準拠します。
 
-* **当リポジトリのソースコードの改造、改造物の配布は自由に行えます。**  
-  **ただし、リポジトリのクローンは【禁止〗とします**。  
+* **当リポジトリのソースコードの改造、改造物の配布、クローンは禁止とします。**  
+  **ただし、フリーウェア規格には準拠するため、"非公式に配布、クローンは認め"ます。**  
 
 * リポジトリのソースコード使用の許諾、謝辞については不要です。  
 
@@ -54,11 +57,11 @@
 
 * お問い合わせについて。  
 
-  * その他、仕様に関するお問い合わせ、不具合へのクレームは受け付けません。  
+  * 仕様に関するお問い合わせ、不具合へのクレームは受け付けません。  
 
   * 第三者を介したトラブル解決の際、当方の名称を出すのはご遠慮ください。  
   
-  　　[連絡先ページ](https://github.com/korei-xlix/homepage/blob/main/rules/address.md)  
+  　　[[連絡先ページ]](https://website.koreis-labo.com/rules/address.htm)  
   
 
 
@@ -69,5 +72,6 @@
 [[トップへ戻る]](/readme.md)  
   
 ::Admin= Korei (@korei-xlix)  
-::github= https://github.com/korei-xlix/  
-::Twitter= https://twitter.com/korei_dev  
+::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
+::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
+::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
