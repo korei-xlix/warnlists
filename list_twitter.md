@@ -1,11 +1,11 @@
-# 警告リスト・Twitter
+# 警告リスト・X
 
 **★このドキュメントの改造、流用、配布、クローンは禁止です★**  
     **Modification, diversion, distribution, and cloning of this document are prohibited**  
   
 
 <h1 id="aHowto">このドキュメントについて / About this document</h1>  
-本ドキュメントはTwitterの @korei_xlix アカウントで確認された警告ユーザを晒し上げることで注意喚起を促すものです。  
+本ドキュメントはX(旧Twitter)の @korei_xlix アカウントで確認された警告ユーザを晒し上げることで注意喚起を促すものです。  
 本ドキュメントに記載された理由については、各記載を参照ください。  
 なおキリがなくなるので、当方に不手際があった以外異議申し立てには応じません。  
   
@@ -143,4 +143,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::Twitter= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
