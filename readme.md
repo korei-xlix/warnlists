@@ -16,7 +16,9 @@
 * [警告リスト（Twitter）](/list_twitter.md)
 
 * [警告リスト（Youtube）](/list_youtube.md)
-  
+
+* [警告リスト（Instagram）](/list_instagram.md)
+
 
 
 
