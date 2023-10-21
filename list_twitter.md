@@ -111,7 +111,10 @@
   
 
 * **[@gochiusa_mineta](https://twitter.com/gochiusa_mineta)**  
-  自動管理アカウントについては関わらないでほしいという運用方針を読まれてなかったみたい。  
+  リフォローなかったのでリムーブした上、スパムリストに追加されたのを怒って人のこと吊し上げてた。  
+  いいねボタンを押すのが好きならそれでも押せばいい話で、言ってることがちぐはぐ。  
+  関わってはいけないアカウントだと思った。  
+  https://onedrive.live.com/embed?resid=9E7DF6EC3BCA44D5%211843&authkey=%21AOOdoWUGloQhBF8&width=481&height=721  
     2023.10.22 登録・ブロック  
   
 
