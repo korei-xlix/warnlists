@@ -23,7 +23,7 @@
 * [警告認定垢](#aWarning)
 * [自衛ブロック垢](#aBlock)
 * [いいねbot垢](#aBot)
-* [永久BAN](#aBan)
+* [永久BAN](/old_list_twitter.md#aBan)
   
 * [過去の登録者](/old_list_twitter.md)
   
@@ -103,57 +103,6 @@
 * **[@Goshiki_549](https://twitter.com/Goshiki_549)**  
     2023.10.21 登録・ブロック（いいねbot）  
     2023.10.28 ブロック解除予定  
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<h1 id="aBan">永久BAN垢 一覧</h1>  
-
-トラブル回避のため永久的にBAN設定します。  
-なお総数には計上しません。  
-  
-* **[@myonmyon07802](https://twitter.com/myonmyon07802)**  
-  アズレン関係でユーザリリースしても、ブロックしても、フォローしてくるアカウント。自動管理と思われる。  
-    2023.6.1 登録・ブロック（永久BAN）  
-  
-
-* **[@gochiusa_mineta](https://twitter.com/gochiusa_mineta)**  
-  リフォローなかったのでリムーブした上、スパムリストに追加されたのを怒って人のこと吊し上げてた。  
-  いいねボタンを押すのが好きならそれでも押せばいい話で、言ってることがちぐはぐ。  
-  関わってはいけないアカウントだと思った。  
-  https://onedrive.live.com/embed?resid=9E7DF6EC3BCA44D5%211843&authkey=%21AOOdoWUGloQhBF8&width=481&height=721  
-    2023.10.22 登録・ブロック（永久BAN）  
   
 
 

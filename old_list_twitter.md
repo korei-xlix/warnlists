@@ -11,8 +11,6 @@
   
 なお、スパムアカウントについては運用方針で放置する方針のため、リストには入れてません。  
   
-> **リスト登録者数： 5 件**  
-  
 
 
 
@@ -21,6 +19,30 @@
 <h1 id="aMokuji">目次 / Table of contents</h1>  
 
 * [警告リスト(X_旧Twitter)](/list_twitter.md)
+* [永久BAN)](#aBan)
+* [過去の登録者)](#aLists)
+  
+
+
+
+
+<h1 id="aBan">永久BAN垢 一覧</h1>  
+
+トラブル回避のため永久的にBAN設定します。  
+なお総数には計上しません。  
+  
+* **[@myonmyon07802](https://twitter.com/myonmyon07802)**  
+  アズレン関係でユーザリリースしても、ブロックしても、フォローしてくるアカウント。自動管理と思われる。  
+    2023.6.1 登録・ブロック（永久BAN）  
+  
+
+* **[@gochiusa_mineta](https://twitter.com/gochiusa_mineta)**  
+  リフォローなかったのでリムーブした上、スパムリストに追加されたのを怒って人のこと吊し上げてた。  
+  いいねボタンを押すのが好きならそれでも押せばいい話で、言ってることがちぐはぐ。  
+  関わってはいけないアカウントだと思った。  
+  [魚拓](https://onedrive.live.com/embed?resid=9E7DF6EC3BCA44D5%211843&authkey=%21AOOdoWUGloQhBF8&width=481&height=721)  
+    2023.10.22 登録・ブロック（永久BAN）  
+  
 
 
 
