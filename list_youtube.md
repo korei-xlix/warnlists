@@ -1,32 +1,34 @@
-# 警告リスト・Youtube
+# 警告リスト：Youtube
+
+## このドキュメントについて
 
 **★このドキュメントの改造、流用、配布、クローンは禁止です★**  
     **Modification, diversion, distribution, and cloning of this document are prohibited**  
   
-
-<h1 id="aHowto">このドキュメントについて / About this document</h1>  
 本ドキュメントはYoutube上で確認された警告ユーザを晒し上げることで注意喚起を促すものです。  
 本ドキュメントに記載された理由については、各記載を参照ください。  
 なおキリがなくなるので、当方に不手際があった以外異議申し立てには応じません。  
   
 > **リスト登録者数： 0 件**  
 >  
-  
 
 
 
 
 
-<h1 id="aMokuji">目次 / Table of contents</h1>  
+## 目次
 
-* [規約違反](#aIgnoreWarning)
-  
+* [readme.md](/readme.md)
+
+* リスト
+  * [規約違反](#規約違反)
 
 
 
 
 
-<h1 id="aIgnoreWarning">規約違反</h1>  
+## 規約違反
+
 当方 @korei_xlix 記載のルールに従わなかったユーザ。  
 **規約については、当アカウントのトップに記載**  
   

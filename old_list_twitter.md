@@ -1,32 +1,33 @@
 # 警告リスト・X
 
+## このドキュメントについて / About this document
+
 **★このドキュメントの改造、流用、配布、クローンは禁止です★**  
     **Modification, diversion, distribution, and cloning of this document are prohibited**  
   
-
-<h1 id="aHowto">このドキュメントについて / About this document</h1>  
 本ドキュメントはX(旧Twitter)の @korei_xlix アカウントで過去に警告リストに登録したユーザ一覧です。  
 本ドキュメントに記載された理由については、各記載を参照ください。  
 キリがなくなるので、当方に不手際があった以外異議申し立てには応じません。  
   
 なお、スパムアカウントについては運用方針で放置する方針のため、リストには入れてません。  
-  
 
 
 
 
 
-<h1 id="aMokuji">目次 / Table of contents</h1>  
+## 目次 / Table of contents
 
-* [警告リスト(X_旧Twitter)](/list_twitter.md)
-* [永久BAN)](#aBan)
-* [過去の登録者)](#aLists)
-  
+* [readme.md](/readme.md)
+
+* リスト
+  * [過去の登録者)](#過去の登録者一覧)
+  * [永久BAN)](#永久ban垢-一覧)
 
 
 
 
-<h1 id="aBan">永久BAN垢 一覧</h1>  
+
+## 永久BAN垢 一覧
 
 トラブル回避のため永久的にBAN設定します。  
 なお総数には計上しません。  
@@ -38,7 +39,7 @@
 
 
 
-<h1 id="aLists">過去の登録者一覧</h1>  
+## 過去の登録者一覧
 
 * **[@myonmyon07802](https://twitter.com/myonmyon07802)**  
   アズレン関係でユーザリリースしても、ブロックしても、フォローしてくるアカウント。自動管理と思われる。  
@@ -125,9 +126,6 @@
     2023.10.23 ブロック解除  
     2023.10.23 リスト削除  
   
-
-
-
 
 
 

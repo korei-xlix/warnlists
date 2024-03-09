@@ -1,30 +1,33 @@
 # 警告リスト
 
+## このドキュメントについて
+
 **★このリポジトリの改造、流用、配布、クローンは禁止です★**  
     **Modification, diversion, distribution, and cloning of this repository are prohibited**  
   
 
-<h1 id="aHowto">このドキュメントについて / About this document</h1>  
 このリポジトリは、警告リストの保管リポジトリです。  
 
 
 
-<h1 id="aMokuji">目次 / Table of contents</h1>  
-
-* [警告リスト（github）](/list_github.md)
-
-* [警告リスト（Twitter）](/list_twitter.md)
-
-* [警告リスト（Youtube）](/list_youtube.md)
-
-* [警告リスト（Instagram）](/list_instagram.md)
 
 
+## 目次
+
+* [readme.md](/readme.md)
+  * [リポジトリの利用規約](#リポジトリの利用規約)
+
+* 警告リスト一覧
+  * [警告リスト（X）](list_twitter.md)
+  * [警告リスト（github）](list_github.md)
+  * [警告リスト（Youtube）](list_youtube.md)
+  * [警告リスト（Instagram）](list_instagram.md)
 
 
 
 
-<h1 id="aRules">リポジトリの利用規約 / Repository terms</h1>  
+
+## リポジトリの利用規約
 
 本項目では、githubの各リポジトリの共通的な利用規約について定めます。  
 
@@ -62,9 +65,7 @@
   * 仕様に関するお問い合わせ、不具合へのクレームは受け付けません。  
 
   * 第三者を介したトラブル解決の際、当方の名称を出すのはご遠慮ください。  
-  
   　　[[連絡先ページ]](https://website.koreis-labo.com/rules/address.htm)  
-  
 
 
 
