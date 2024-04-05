@@ -131,6 +131,27 @@
 
 
 
+## リスナーbot
+
+いいねはあるけど、リフォローの見込みのないアカウントです。  
+操作軽減のためブロック措置とします。  
+
+* **[@azarasiuouo](https://twitter.com/azarasiuouo)**  
+    2024.4.5 登録・ブロック  
+  
+
+* **[@841_MiTsuKi](https://twitter.com/841_MiTsuKi)**  
+    2024.4.5 登録・ブロック  
+  
+
+* **[@kuroirolizard](https://twitter.com/kuroirolizard)**  
+    2024.4.5 登録・ブロック  
+  
+
+
+
+
+
 ***
 [[トップへ戻る]](/readme.md)  
   
