@@ -148,6 +148,10 @@
     2024.4.5 登録・ブロック  
   
 
+* **[@furanagan](https://twitter.com/furanagan)**  
+    2024.4.8 登録・ブロック  
+  
+
 
 
 
