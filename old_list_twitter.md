@@ -152,6 +152,10 @@
     2024.4.8 登録・ブロック  
   
 
+* **[@akubineko39](https://twitter.com/akubineko39)**  
+    2024.4.9 登録・ブロック  
+  
+
 
 
 
