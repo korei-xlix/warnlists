@@ -164,6 +164,13 @@
     2024.4.15 登録・ブロック  
   
 
+* **[@iguri_re13bt](https://twitter.com/iguri_re13bt)**  
+    2024.4.15 登録・ブロック  
+  
+
+* **[@Onmyouji_G](https://twitter.com/Onmyouji_G)**  
+    2024.4.15 登録・ブロック  
+  
 
 
 
