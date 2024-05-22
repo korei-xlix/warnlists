@@ -129,6 +129,13 @@
     2023.10.23 リスト削除  
   
 
+* **[@JUIE2SFkMu66454](https://twitter.com/JUIE2SFkMu66454)**  
+リストフォローしてきたのでリプライを送ったが無視されたため、処置とした。  
+    2024.5.4 登録・ブロック  
+    2024.5.11 ブロック解除予定  
+    2024.5.12 ブロック解除  
+    2024.5.22 リスト削除  
+  
 
 
 
@@ -138,52 +145,7 @@
 いいねはあるけど、リフォローの見込みのないアカウントです。  
 間違って再度フォローしないように、ブロック措置とします。  
 
-* **[@azarasiuouo](https://twitter.com/azarasiuouo)**  
-    2024.4.5 登録・ブロック  
-  
-
-* **[@841_MiTsuKi](https://twitter.com/841_MiTsuKi)**  
-    2024.4.5 登録・ブロック  
-  
-
-* **[@kuroirolizard](https://twitter.com/kuroirolizard)**  
-    2024.4.5 登録・ブロック  
-  
-
-* **[@furanagan](https://twitter.com/furanagan)**  
-    2024.4.8 登録・ブロック  
-  
-
-* **[@akubineko39](https://twitter.com/akubineko39)**  
-    2024.4.9 登録・ブロック  
-  
-
-* **[@8t06933147](https://twitter.com/8t06933147)**  
-    2024.4.12 登録・ブロック  
-  
-
-* **[@pe3rpvd22222](https://twitter.com/pe3rpvd22222)**  
-    2024.4.15 登録・ブロック  
-  
-
-* **[@iguri_re13bt](https://twitter.com/iguri_re13bt)**  
-    2024.4.15 登録・ブロック  
-  
-
-* **[@Onmyouji_G](https://twitter.com/Onmyouji_G)**  
-    2024.4.15 登録・ブロック  
-  
-
-* **[@akaeda331](https://twitter.com/akaeda331)**  
-    2024.4.26 登録・ブロック  
-  
-
-* **[@teagkuet](https://twitter.com/teagkuet)**  
-    2024.4.27 登録・ブロック  
-  
-
-* **[@shinkawa01hokan](https://twitter.com/shinkawa01hokan)**  
-    2024.4.29 登録・ブロック  
+* **(登録なし)**  
   
 
 
