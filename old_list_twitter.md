@@ -180,6 +180,14 @@
 * **[@namuinu774](https://twitter.com/namuinu774)**  
     2024.5.30 登録・ブロック  
 
+* **[@kYxMFEcYy1EAURW](https://twitter.com/kYxMFEcYy1EAURW)**  
+    2024.5.30 登録・ブロック  
+
+* **[@chevariel358](https://twitter.com/chevariel358)**  
+    2024.5.30 登録・ブロック  
+
+* **[@suzutsukimaru](https://twitter.com/suzutsukimaru)**  
+    2024.5.30 登録・ブロック  
 
 
 
