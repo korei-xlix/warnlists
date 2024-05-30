@@ -145,8 +145,41 @@
 いいねはあるけど、リフォローの見込みのないアカウントです。  
 間違って再度フォローしないように、ブロック措置とします。  
 
-* **(登録なし)**  
-  
+### アズレンメンテ関係
+
+* **[@9H45iltSRV70150](https://twitter.com/9H45iltSRV70150)**  
+    2024.5.22 登録・ブロック  
+
+* **[@suzurobi](https://twitter.com/suzurobi)**  
+    2024.5.22 登録・ブロック  
+
+* **[@konomekaze_leaf](https://twitter.com/konomekaze_leaf)**  
+    2024.5.22 登録・ブロック  
+
+* **[@Phoenix_KYP](https://twitter.com/Phoenix_KYP)**  
+    2024.5.30 登録・ブロック  
+
+* **[@gnYGJeVnixS0683](https://twitter.com/gnYGJeVnixS0683)**  
+    2024.5.30 登録・ブロック  
+
+* **[@iQHrfa6E1OX7lPq](https://twitter.com/iQHrfa6E1OX7lPq)**  
+    2024.5.30 登録・ブロック  
+
+* **[@KAY04106070](https://twitter.com/KAY04106070)**  
+    2024.5.30 登録・ブロック  
+
+* **[@kenken12090](https://twitter.com/kenken12090)**  
+    2024.5.30 登録・ブロック  
+
+* **[@CHUSA33609033](https://twitter.com/CHUSA33609033)**  
+    2024.5.30 登録・ブロック  
+
+* **[@bqaDwa2pTvLEfSm](https://twitter.com/bqaDwa2pTvLEfSm)**  
+    2024.5.30 登録・ブロック  
+
+* **[@namuinu774](https://twitter.com/namuinu774)**  
+    2024.5.30 登録・ブロック  
+
 
 
 

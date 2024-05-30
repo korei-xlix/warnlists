@@ -90,18 +90,8 @@
 再度フォローやいいねされた場合、永久BANします。  
   
 
-### アズレンメンテ関係
-
-* **[@9H45iltSRV70150](https://twitter.com/9H45iltSRV70150)**  
-    2024.5.22 登録・ブロック  
-
-* **[@suzurobi](https://twitter.com/suzurobi)**  
-    2024.5.22 登録・ブロック  
-
-* **[@konomekaze_leaf](https://twitter.com/konomekaze_leaf)**  
-    2024.5.22 登録・ブロック  
-
-
+* **(登録なし)**  
+  
 
 
 
