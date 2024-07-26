@@ -34,8 +34,17 @@
 **規約については、当アカウントのトップに記載**  
   
 
-* **(登録なし)**  
+* **[@eust-w](https://github.com/eust-w)**  
+  規約違反。フォロー集めアカウント。  
+    2024.7.27 登録・ブロック  
   
+
+* **[@bellen1123](https://github.com/bellen1123)**  
+  規約違反。フォロー集めアカウント。  
+    2024.7.27 登録・ブロック  
+  
+
+
 
 
 
@@ -47,4 +56,4 @@
 ::Admin= Korei (@korei-xlix)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
 ::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
-::X= [https://twitter.com/korei_xlix](https://twitter.com/korei_xlix)  
+::X= [https://x.com/korei_xlix](https://x.com/korei_xlix)  
